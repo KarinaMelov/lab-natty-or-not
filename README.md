@@ -21,21 +21,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Nesse projeto foi utilizado a plataforma gamma, para a criação de um slide personalizado. 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto se refere a uma apresentação power point sobre a plataforma de serviços em nuvem "Azure", suas utilidades e porque ela deve ser usada juntamente com a linguagem de programação C#. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A ferramente utilizada foi o https://gamma.app/.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi dado um prompt, pedindo que a IA criansse uma apresentação com os seguintes dados: Gere uma apresentação, explicando o que é Azure e quais vantagens para desenvolvedores C# a utilizarem. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi gerado uma apresentação, que está viculada neste repositório.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio foi de extrema importancia para mostrar que as IAs não tem a função de "substituir o trabalho humano" como todos dizem, mas sim facilitar o trabalho e a forma de vida humana. Apreendendo e facilitando nossas vidas em diversas áreas. Além de auxiliar em todo e quase qualquer processo que solicitamos para ela. 
 ```
 
 ### Exemplos e Insigths
